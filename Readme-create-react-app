@@ -1,6 +1,3 @@
-> Example of running React examples directly in browser:
-	file:///C:/UI/React/main_concepts/reactjs.org_examples/hello.html
-
 > Create React App:
 	C:\UI\React:
 	npx create-react-app helloworld
